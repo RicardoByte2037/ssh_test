@@ -1,2 +1,2 @@
 print("Niggas!")
-print("Hola mundo°")
+print("Hola mundooo°")
